@@ -1,0 +1,12 @@
+{
+  "id": 54211,
+  "network": "Custom",
+  "deployments": {
+    "0xfbcF0C1C08aEc171cd88c81964D98EF5eA8ee592": {
+      "date": "2023-09-22T11:00:11.053Z",
+      "contractName": "MEDINA",
+      "fork": "london",
+      "implementationAddress": "0x7C68466C9175128BCD9D5A0aE39ae97AD5c9604f"
+    }
+  }
+}
